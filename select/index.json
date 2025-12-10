@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "B-Side Blues",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-10T09:46:40.786699Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "B-Side Blues",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/01_B-Side_Blues_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "B-Side Blues (B-Side)",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/02_B-Side_Blues_(B-Side)_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "B‐Side Blues",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/03_B‐Side_Blues_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "B‐Side Blues",
+      "artist": "OfficialHigeDandism",
+      "has_synced": true,
+      "path": "select/04_B‐Side_Blues_OfficialHigeDandism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "B-Side Blues",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/05_B-Side_Blues_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "B‐Side Blues",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/06_B‐Side_Blues_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rollin´ B-Side Blues",
+      "artist": "Muggs, The",
+      "has_synced": false,
+      "path": "select/07_Rollin_́_B-Side_Blues_Muggs,_The.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rollin’ B-Side Blues",
+      "artist": "The Muggs",
+      "has_synced": false,
+      "path": "select/08_Rollin’_B-Side_Blues_The_Muggs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "B-Side Blues",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/09_B-Side_Blues_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "B Side Blues",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/10_B_Side_Blues_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "B-Side Blues",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_B-Side_Blues_Official髭男dism.txt"
+    }
+  ]
+}
